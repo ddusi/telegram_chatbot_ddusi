@@ -7,7 +7,7 @@ import requests
 
 token = config("TELEGRAM_BOT_TOKEN")
 url = "https://api.telegram.org/bot"
-paw_url = "https://31ba796a.ngrok.io"
+paw_url = "https://8ce737bb.ngrok.io"
 
 
 #setwebhook을 설정
